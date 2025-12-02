@@ -1,0 +1,19 @@
+{
+	"enableFastMove": true,
+	"diveRollEnabled": true,
+	"diveRollStaminaCost": 20,
+	"diveRollSpeedBoostMultiplier": 1.0,
+	"diveRollCoolDown": 60,
+	"diveRollWhenSwimming": false,
+	"diveRollWhenFlying": false,
+	"wallRunEnabled": true,
+	"wallRunStaminaCost": 0,
+	"wallRunSpeedBoostMultiplier": 1.0,
+	"wallRunDurationTicks": 60,
+	"slideEnabled": true,
+	"slideStaminaCost": 10,
+	"slideSpeedBoostMultiplier": 1.0,
+	"slideCoolDown": 60,
+	"useCombatRoll": false,
+	"useParaglider": false
+}

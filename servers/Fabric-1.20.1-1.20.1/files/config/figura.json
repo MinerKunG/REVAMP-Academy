@@ -1,0 +1,9 @@
+{
+  "CONFIG_VERSION": 1,
+  "action_wheel_button": "key.keyboard.i",
+  "popup_button": "key.keyboard.unknown",
+  "panic_button": "key.keyboard.delete",
+  "wardrobe_button": "key.keyboard.u",
+  "connection_toasts": false,
+  "server_ip": "figura.miney.online"
+}

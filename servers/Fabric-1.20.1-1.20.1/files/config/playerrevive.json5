@@ -1,0 +1,12 @@
+{
+	"visualSettings": {
+		"enableBlobs2Shader": true
+	},
+	"gameplaySettings": {
+		"startHealthOnDowned": 1,
+		"reviveHealthThreshold": 25,
+		"hungerLevelOnDowned": 1,
+		"applySlownessOnDowned": true,
+		"slownessLevelOnDowned": 1
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"visualSettings": {
+		"enableBlobs2Shader": true
+	},
+	"gameplaySettings": {
+		"startHealthOnDowned": 1,
+		"reviveHealthThreshold": 25,
+		"applySlownessOnDowned": false,
+		"slownessLevelOnDowned": 0
+	},
+	"messageSettings": {
+		"enableChatMessages": false
+	}
+}

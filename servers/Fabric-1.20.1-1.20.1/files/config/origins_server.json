@@ -1,0 +1,252 @@
+{
+  "performVersionCheck": true,
+  "origins": {
+    "origins:enderian": {
+      "enabled": true,
+      "origins:throw_ender_pearl": true,
+      "origins:water_vulnerability": true,
+      "origins:pumpkin_hate": true,
+      "origins:extra_reach": true,
+      "origins:ender_particles": true,
+      "origins:damage_from_potions": true
+    },
+    "origins:arachnid": {
+      "enabled": true,
+      "origins:climbing": true,
+      "origins:master_of_webs": true,
+      "origins:carnivore": true,
+      "origins:fragile": true,
+      "origins:arthropod": true
+    },
+    "origins:human": {
+      "enabled": true
+    },
+    "origins:blazeborn": {
+      "enabled": true,
+      "origins:fire_immunity": true,
+      "origins:nether_spawn": true,
+      "origins:burning_wrath": true,
+      "origins:hotblooded": true,
+      "origins:water_vulnerability": true,
+      "origins:flame_particles": true,
+      "origins:damage_from_snowballs": true,
+      "origins:damage_from_potions": true
+    },
+    "origins:avian": {
+      "enabled": true,
+      "origins:slow_falling": true,
+      "origins:fresh_air": true,
+      "origins:like_air": true,
+      "origins:tailwind": true,
+      "origins:lay_eggs": true,
+      "origins:vegetarian": true
+    },
+    "origins:feline": {
+      "enabled": true,
+      "origins:fall_immunity": true,
+      "origins:sprint_jump": true,
+      "origins:velvet_paws": true,
+      "origins:nine_lives": true,
+      "origins:weak_arms": true,
+      "origins:scare_creepers": true,
+      "origins:cat_vision": true
+    },
+    "origins:elytrian": {
+      "enabled": true,
+      "origins:elytra": true,
+      "origins:launch_into_air": true,
+      "origins:aerial_combatant": true,
+      "origins:light_armor": true,
+      "origins:claustrophobia": true,
+      "origins:more_kinetic_damage": true
+    },
+    "origins:shulk": {
+      "enabled": true,
+      "origins:shulker_inventory": true,
+      "origins:natural_armor": true,
+      "origins:strong_arms": true,
+      "origins:strong_arms_break_speed": true,
+      "origins:no_shield": true,
+      "origins:more_exhaustion": true
+    },
+    "origins:merling": {
+      "enabled": true,
+      "origins:water_breathing": true,
+      "origins:water_vision": true,
+      "origins:aqua_affinity": true,
+      "origins:swim_speed": true,
+      "origins:like_water": true,
+      "origins:aquatic": true,
+      "origins:conduit_power_on_land": true,
+      "origins:air_from_potions": true
+    },
+    "origins:phantom": {
+      "enabled": true,
+      "origins:phantomize": true,
+      "origins:translucent": true,
+      "origins:phasing": true,
+      "origins:invisibility": true,
+      "origins:burn_in_daylight": true,
+      "origins:hunger_over_time": true,
+      "origins:fragile": true,
+      "origins:phantomize_overlay": true
+    },
+    "killergenius:killergenius": {
+      "enabled": true,
+      "killergenius:power": true
+    },
+    "godlyoskeesizemanipulator:size_manipulator": {
+      "enabled": true,
+      "godlyoskeesizemanipulator:impose_power": true
+    },
+    "athleticgenius:athleticgenius": {
+      "enabled": true,
+      "athleticgenius:power": true
+    },
+    "photo:photo": {
+      "enabled": true,
+      "photo:shutter": true
+    },
+    "martialartsgenius:martialartsgenius": {
+      "enabled": true,
+      "martialartsgenius:power": true
+    },
+    "eat:eat": {
+      "enabled": true,
+      "eat:eat": true
+    },
+    "stealer:stealer": {
+      "enabled": true,
+      "stealer:steal": true,
+      "stealer:look": true
+    },
+    "handsome:handsome": {
+      "enabled": true,
+      "handsome:handsome/aura": true,
+      "handsome:handsome/stun": true
+    },
+    "nopower:nopower": {
+      "enabled": true
+    },
+    "aria_oversystem:myorigins": {
+      "enabled": true,
+      "aria_oversystem:passive_1": true,
+      "aria_oversystem:dash": true,
+      "aria_oversystem:flight": true,
+      "aria_oversystem:fly": true,
+      "aria_oversystem:get_up": true,
+      "aria_oversystem:mystery_of_darkness": true,
+      "aria_oversystem:the_beauty_of_the_goddess_venus": true,
+      "aria_oversystem:demon_solomons_pressure": true,
+      "aria_oversystem:i_must_survive": true,
+      "aria_oversystem:uit": true
+    },
+    "raijin:raijin": {
+      "enabled": true,
+      "origins:fall_immunity": true,
+      "raijin:passive": true,
+      "raijin:fly": true,
+      "raijin:fire": true,
+      "raijin:dash": true,
+      "raijin:summon_lightning": true,
+      "raijin:lightning_immunity": true,
+      "raijin:no_shield": true,
+      "raijin:water_vulnerability": true,
+      "raijin:health": true,
+      "raijin:more_exhaustion": true,
+      "raijin:fast": true,
+      "origins:light_armor": true,
+      "raijin:claustrophobia": true
+    },
+    "quirk:detonate": {
+      "enabled": true,
+      "quirk:detonate/detonate": true,
+      "quirk:detonate/arm-bomb": true,
+      "quirk:detonate/boom-step": true
+    },
+    "quirk:alchemy": {
+      "enabled": true,
+      "quirk:alchemy/ring_bar": true,
+      "quirk:alchemy/dark_transformation": true,
+      "quirk:alchemy/bologna_smash": true,
+      "quirk:alchemy/torino_smash": true,
+      "quirk:alchemy/energy_disc": true,
+      "quirk:alchemy/energy_shield": true
+    },
+    "quirk:iron_ball": {
+      "enabled": true,
+      "quirk:iron_ball/ball": true,
+      "quirk:iron_ball/iron_knuckle": true,
+      "quirk:iron_ball/iron_shot": true,
+      "quirk:iron_ball/iron_marble": true,
+      "quirk:iron_ball/iron_roll": true
+    },
+    "quirk:twin": {
+      "enabled": true,
+      "quirk:twin/second-impact": true,
+      "quirk:twin/double-contact": true,
+      "quirk:twin/collide": true,
+      "quirk:twin/two-step": true
+    },
+    "quirk:blackhole": {
+      "enabled": true,
+      "quirk:blackhole/fakeout": true,
+      "quirk:blackhole/matter_absorb": true,
+      "quirk:blackhole/artificial_blackhole": true,
+      "quirk:blackhole/safety-net": true
+    },
+    "quirk:fiber": {
+      "enabled": true,
+      "quirk:fiber/blackout_bind": true,
+      "quirk:fiber/thread_of_hope": true,
+      "quirk:fiber/vital_stitch": true,
+      "quirk:fiber/seam_grip": true,
+      "quirk:fiber/timer_orb": true
+    },
+    "quirk:black": {
+      "enabled": true,
+      "quirk:black/passive": true,
+      "quirk:black/shadow": true,
+      "quirk:black/shadow_leap": true,
+      "quirk:black/shadow_counter": true,
+      "quirk:black/darkshadow": true
+    },
+    "quirk:black_lightning": {
+      "enabled": true,
+      "quirk:black_lightning/shock_bolt": true,
+      "quirk:black_lightning/spread_lightning": true,
+      "quirk:black_lightning/staggering_shock": true,
+      "quirk:black_lightning/electrify": true,
+      "quirk:black_lightning/dark_lightning_shield": true
+    },
+    "quirk:landmine": {
+      "enabled": true,
+      "quirk:landmine/landmine": true
+    },
+    "quirk:larceny": {
+      "enabled": true,
+      "quirk:larceny/pilfer": true
+    },
+    "quirk:springlike_limbs": {
+      "enabled": true,
+      "quirk:springlike_limbs/coiling": true,
+      "quirk:springlike_limbs/coilback": true,
+      "quirk:springlike_limbs/bounce": true,
+      "quirk:springlike_limbs/springify": true,
+      "quirk:springlike_limbs/full_springoff": true
+    },
+    "minerisalwaysnoob:lecturer": {
+      "enabled": true,
+      "minerisalwaysnoob:lecturer/power": true
+    },
+    "minerisalwaysnoob:alien": {
+      "enabled": true,
+      "minerisalwaysnoob:alien/power": true
+    },
+    "minerisalwaysnoob:item": {
+      "enabled": true,
+      "minerisalwaysnoob:raze_satchel": true,
+      "minerisalwaysnoob:cluster_grenade": true
+    }
+  }
+}
