@@ -28908,9 +28908,20 @@
           "type": "File",
           "artifact": {
             "size": 19688556,
-            "url": "https://minerkung.github.io/REVAMP-Academy/servers/Fabric-1.20.1-1.20.1/files/mods/pmsutil-1.0.5.jar",
+            "url": "https://www.dropbox.com/scl/fi/rndr583trwoej148mr9nv/PMS-Particles-1.0.2.jar?rlkey=666cqqnn0mpjxebwbmcg1zb1p&st=q2u6ywj5&dl=0",
             "MD5": "5595a87e7ec19987e6556235dc4bd807",
             "path": "mods/pmsutil-1.0.5.jar"
+          }
+        },
+                {
+          "id": "PMS Particles-1.0.2.jar",
+          "name": "PMS Particles-1.0.2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 19688556,
+            "url": "https://minerkung.github.io/REVAMP-Academy/servers/Fabric-1.20.1-1.20.1/files/mods/pmsutil-1.0.5.jar",
+            "MD5": "5595a87e7ec19987e6556235dc4bd807",
+            "path": "mods/PMS Particles-1.0.2.jar"
           }
         },
         {
